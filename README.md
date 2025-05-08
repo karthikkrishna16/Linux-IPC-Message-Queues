@@ -1,5 +1,5 @@
-# Name: B KRISHNAKANTH
-# Register Number: 212223230109
+# Name: TH KARTHIK KRISHNA
+# Register Number: 212223240067
 
 # Linux-IPC-Message-Queues
 
